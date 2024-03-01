@@ -1,0 +1,3 @@
+1,Ion,Roman,Liviu Rebreanu
+2,Domnul Goe,Schita,I.L. Caragiale
+3,Robinson Crusoe,Roman,Daniel Defoe
